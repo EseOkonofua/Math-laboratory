@@ -1,3 +1,5 @@
+ **pcaapprox.m** and **pcaprelim.m** functions were created and provided to me for use in my analysis. I did not create these functions.
+
 #Principal Component Analysis on 2 different datasets describing Knee Motion Angles
 
 ##Which group is which? and how can you justify your choice?
